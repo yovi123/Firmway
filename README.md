@@ -1,3 +1,9 @@
+<ul>
+    <li>http://localhost/blog/public/list - Is a url for blog test</li>
+    <li>Create a command to send email - php artisan bulk_email:send</li>
+    </ul>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
