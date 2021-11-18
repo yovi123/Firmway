@@ -1,6 +1,8 @@
 <ul>
     <li>http://localhost/blog/public/list - Is a url for blog test</li>
     <li>Create a command to send email - php artisan bulk_email:send</li>
+    <li><b>Test 3 logic is in file name test3.php ar route level</b></li>
+    <li><b>Test 4 logic is in file name test4.php ar route level</b></li>
     </ul>
 
 
