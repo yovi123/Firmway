@@ -42,7 +42,7 @@ class BulkEmail extends Command
 
         $emails = [
             'yogeshv302@gmail.com',
-            'yogesh.vishwakarma@kissht.com'
+            'vishwakarma.yogesh33@gmail.com'
         ];
 
         foreach ($emails as $key => $email) {
